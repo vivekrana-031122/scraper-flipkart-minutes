@@ -4,6 +4,10 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 [![Tech: Playwright](https://img.shields.io/badge/Tech-Playwright-brightgreen.svg)](#)
 
+> [!NOTE]
+> This scraper is fully functional but not scheduled to run automatically. Run manually with `python flipkart_minutes_scraper.py`.
+
+
 High-performance Playwright scraper to extract real-time product prices, brands, images, and availability from Flipkart Minutes quick commerce listings.
 
 ---
